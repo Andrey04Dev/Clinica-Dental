@@ -1,0 +1,20 @@
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaGlobal\bin\Debug\CapaGlobal.dll
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaGlobal\bin\Debug\CapaGlobal.pdb
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaGlobal\obj\Debug\CapaGlobal.csprojResolveAssemblyReference.cache
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaGlobal\obj\Debug\CapaGlobal.dll
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaGlobal\obj\Debug\CapaGlobal.pdb
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaGlobal\bin\Debug\CapaGlobal.dll
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaGlobal\bin\Debug\CapaGlobal.pdb
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaGlobal\obj\Debug\CapaGlobal.csprojResolveAssemblyReference.cache
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaGlobal\obj\Debug\CapaGlobal.dll
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaGlobal\obj\Debug\CapaGlobal.pdb
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaGlobal\bin\Debug\CapaGlobal.dll
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaGlobal\bin\Debug\CapaGlobal.pdb
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaGlobal\obj\Debug\CapaGlobal.csprojResolveAssemblyReference.cache
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaGlobal\obj\Debug\CapaGlobal.dll
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaGlobal\obj\Debug\CapaGlobal.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaGlobal\bin\Debug\CapaGlobal.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaGlobal\bin\Debug\CapaGlobal.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaGlobal\obj\Debug\CapaGlobal.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaGlobal\obj\Debug\CapaGlobal.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaGlobal\obj\Debug\CapaGlobal.pdb

@@ -1,0 +1,134 @@
+c:\users\jafeth granados\documents\visual studio 2013\Projects\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.csprojResolveAssemblyReference.cache
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Forms.Principal.resources
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.Cache
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\Clinica\bin\Debug\CapaGlobal.dll
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\Clinica\bin\Debug\CapaNegocio.dll
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\Clinica\bin\Debug\CapaDatos.dll
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\Clinica\bin\Debug\CapaGlobal.pdb
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\Clinica\bin\Debug\CapaNegocio.pdb
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\Clinica\bin\Debug\CapaDatos.pdb
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Forms.Login.resources
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\bin\Debug\CapaGlobal.dll
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\bin\Debug\CapaNegocio.dll
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\bin\Debug\CapaDatos.dll
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\bin\Debug\CapaGlobal.pdb
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\bin\Debug\CapaNegocio.pdb
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\bin\Debug\CapaDatos.pdb
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\obj\Debug\Clinica.csprojResolveAssemblyReference.cache
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\obj\Debug\Clinica.Forms.Login.resources
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\obj\Debug\Clinica.Forms.Principal.resources
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.Cache
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\obj\Debug\Clinica.Forms.Pacientes.resources
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\obj\Debug\Clinica.Forms.Buscar.resources
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\obj\Debug\Clinica.Forms.Expediente.resources
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\obj\Debug\Clinica.Forms.Imagenes.resources
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\bin\Debug\CapaGlobal.dll
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\bin\Debug\CapaNegocio.dll
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\bin\Debug\CapaDatos.dll
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\bin\Debug\CapaGlobal.pdb
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\bin\Debug\CapaNegocio.pdb
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\bin\Debug\CapaDatos.pdb
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\obj\Debug\Clinica.csprojResolveAssemblyReference.cache
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\obj\Debug\Clinica.forms.Buscar.resources
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\obj\Debug\Clinica.Forms.Expediente.resources
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\obj\Debug\Clinica.Forms.Imagenes.resources
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\obj\Debug\Clinica.Forms.Login.resources
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\obj\Debug\Clinica.Forms.Pacientes.resources
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\obj\Debug\Clinica.Forms.Principal.resources
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.Cache
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\Clinica\obj\Debug\Clinica.Forms.Anamnesis.resources
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\bin\Debug\CapaGlobal.dll
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\bin\Debug\CapaNegocio.dll
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\bin\Debug\CapaDatos.dll
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\bin\Debug\CapaGlobal.pdb
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\bin\Debug\CapaNegocio.pdb
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\bin\Debug\CapaDatos.pdb
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.csprojResolveAssemblyReference.cache
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Forms.Anamnesis.resources
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.forms.Buscar.resources
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Forms.Expediente.resources
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Forms.Imagenes.resources
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Forms.Login.resources
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Forms.Pacientes.resources
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Forms.Principal.resources
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.Cache
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Forms.Odontograma.resources
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\bin\Debug\CapaGlobal.dll
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\bin\Debug\CapaNegocio.dll
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\bin\Debug\CapaDatos.dll
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\bin\Debug\CapaGlobal.pdb
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\bin\Debug\CapaNegocio.pdb
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\bin\Debug\CapaDatos.pdb
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\obj\Debug\Clinica.csprojResolveAssemblyReference.cache
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\obj\Debug\Clinica.Forms.Anamnesis.resources
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\obj\Debug\Clinica.forms.Buscar.resources
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\obj\Debug\Clinica.Forms.Expediente.resources
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\obj\Debug\Clinica.Forms.Imagenes.resources
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\obj\Debug\Clinica.Forms.Login.resources
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\obj\Debug\Clinica.Forms.Odontograma.resources
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\obj\Debug\Clinica.Forms.Pacientes.resources
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\obj\Debug\Clinica.Forms.Principal.resources
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.Cache
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\obj\Debug\Clinica.Forms.Reportes.resources
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\obj\Debug\Clinica.Forms.Acerca.resources
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\obj\Debug\Clinica.Forms.Proforma.resources
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\obj\Debug\Clinica.Forms.FacturaRpt.resources
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\obj\Debug\RdlCompile.cache
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\Clinica\obj\Debug\RdlCompile.compiled
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\bin\Debug\CapaGlobal.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\bin\Debug\CapaNegocio.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\bin\Debug\CapaDatos.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\bin\Debug\CapaGlobal.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\bin\Debug\CapaNegocio.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\bin\Debug\CapaDatos.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Forms.Acerca.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.forms.Buscar.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Forms.Expediente.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Forms.FacturaRpt.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Forms.Login.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Forms.Pacientes.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Forms.Principal.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Forms.Proforma.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Forms.Reportes.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.Cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\RdlCompile.cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\RdlCompile.compiled
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Odontograma.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\Clinica\obj\Debug\Clinica.Forms.ReportesViewer.resources

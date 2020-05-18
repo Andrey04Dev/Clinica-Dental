@@ -1,0 +1,54 @@
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaNegocio\bin\Debug\CapaGlobal.dll
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaNegocio\bin\Debug\CapaGlobal.pdb
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaNegocio\bin\Debug\CapaGlobal.dll
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaNegocio\bin\Debug\CapaGlobal.pdb
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\CapaNegocio\bin\Debug\CapaGlobal.dll
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\CapaNegocio\bin\Debug\CapaGlobal.pdb
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\CapaNegocio\bin\Debug\CapaGlobal.dll
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\CapaNegocio\bin\Debug\CapaGlobal.pdb
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaNegocio\bin\Debug\CapaGlobal.dll
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaNegocio\bin\Debug\CapaGlobal.pdb
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaNegocio\bin\Debug\CapaGlobal.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaNegocio\bin\Debug\CapaGlobal.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaNegocio\obj\Debug\CapaNegocio.pdb

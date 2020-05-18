@@ -1,0 +1,42 @@
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaDatos\bin\Debug\CapaGlobal.dll
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaDatos\bin\Debug\CapaGlobal.pdb
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jafeth Granados\documents\visual studio 2013\Projects\Clinica\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaDatos\bin\Debug\CapaGlobal.dll
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaDatos\bin\Debug\CapaGlobal.pdb
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\LAB-PORTATIL-04\Desktop\Clinica\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\CapaDatos\bin\Debug\CapaGlobal.dll
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\CapaDatos\bin\Debug\CapaGlobal.pdb
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\LAB-PORTATIL-04\Downloads\Clinica\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\CapaDatos\bin\Debug\CapaGlobal.dll
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\CapaDatos\bin\Debug\CapaGlobal.pdb
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\LAB-PORTATIL-04\Documents\Visual Studio 2013\Projects\Clinica\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaDatos\bin\Debug\CapaGlobal.dll
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaDatos\bin\Debug\CapaGlobal.pdb
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jafeth Granados\Desktop\TODA LA CARRERA\ULTIMO AÑO\PPS\Nueva carpeta\Clinica\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaDatos\bin\Debug\CapaGlobal.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaDatos\bin\Debug\CapaGlobal.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Clinica\CapaDatos\obj\Debug\CapaDatos.pdb
